@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>CSE326</title>
+</head>
+<body>
+<h1>This is K23HK section</h1>
+<p>Students are studying html</p>
+</body>
+</html>
+
+
+<img src="abc.jpg" alt="purple sparkle" height="300" width="300">   
